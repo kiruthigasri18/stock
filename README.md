@@ -6,7 +6,7 @@
 </head>
 <body>
     <h2>Stock Management System</h2>
-    <p>In this project, an open-source database used with FastAPI for connectivity enabling local testing and managing the stocks.</p>  
+    <p>In this project, an open-source database is used with FastAPI for connectivity enabling local testing and managing the stocks.</p>  
 </body>
 </head>
 </head>
